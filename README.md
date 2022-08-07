@@ -1,18 +1,18 @@
-### Hi there 👋
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-<!--
-**Levieber/Levieber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Olá, eu sou Levi Eber! </h1>
 
-Here are some ideas to get you started:
+- 🌱 Eu atualmente estou aprendendo Javascript e suas tecnologias.
+- 🧩 Pode me perguntar sobre Javascript e suas tecnologias, CSS e HTML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais tecnoligas
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript"><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs"><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Reactjs">
+
+<hr>
+
+
+
+![](./profile-3d-contrib/profile-gitblock.svg)
