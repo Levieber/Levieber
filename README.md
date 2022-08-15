@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou Levi Eber! </h1>
 
-- 🌱 Eu atualmente estou aprendendo Javascript e suas tecnologias.
-- 🧩 Pode me perguntar sobre Javascript e suas tecnologias, CSS e HTML.
+🌱 Eu atualmente estou aprendendo Javascript e suas tecnologias.<br>
+🧩 Pode me perguntar sobre Javascript e seu ecossistema, CSS e HTML.
 
 ## Principais tecnologias
 
