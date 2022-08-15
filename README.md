@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou Levi Eber! </h1>
 
-🌱 Eu atualmente estou aprendendo Javascript e suas tecnologias.<br>
+🌱 Eu atualmente estou aprendendo Javascript e seu ecossistema.<br>
 🧩 Pode me perguntar sobre Javascript e seu ecossistema, CSS e HTML.
 
 ## Principais tecnologias
