@@ -4,7 +4,9 @@
 - Estudando na Onebitcode e Alura;
 - Sou apaixonado por tecnologia e pelo conhecimento, comecei na programação em 2022;
   - e acabou tornando-se uma das minhas principais atividades no dia a dia;
-- Na onebitcode, sou o membros mais ativo, fazendo muito networking com outras pessoas.
+- Na comunidade da onebitcode, sou o membro mais ativo, fazendo muito networking com outras pessoas.
+![image](https://user-images.githubusercontent.com/104157600/188217296-481414e8-6819-46e8-a969-4186dbc8890b.png)
+
 
 ## Ambiente de Trabalho/Estudo
 
