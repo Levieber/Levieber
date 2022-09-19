@@ -7,6 +7,8 @@
 - Na comunidade da onebitcode, sou o membro mais ativo, fazendo muito networking com outras pessoas.
 ![image](https://user-images.githubusercontent.com/104157600/188217296-481414e8-6819-46e8-a969-4186dbc8890b.png)
 
+[![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=levieber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Ambiente de Trabalho/Estudo
 
