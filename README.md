@@ -39,3 +39,5 @@
 </a>
 
 [![Levi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@levieber)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
