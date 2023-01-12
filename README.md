@@ -34,7 +34,12 @@
 
 ## Status
 
+<a href="https://wakatime.com/@fd7c5213-ad6b-4b61-af70-a3dd0ff48b39">
+ <img width="500px" src="https://wakatime.com/badge/user/fd7c5213-ad6b-4b61-af70-a3dd0ff48b39.svg" alt="Total time coded since Nov 22 2022" />
+</a>
+
 [![Levi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=levieber&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Levi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=levieber&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Levi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@levieber)](https://github.com/anuraghazra/github-readme-stats)
+
