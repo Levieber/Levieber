@@ -21,4 +21,5 @@
  <img width="500px" src="https://wakatime.com/badge/user/fd7c5213-ad6b-4b61-af70-a3dd0ff48b39.svg" alt="Total time coded since Nov 22 2022" />
 </a>
 
-[![Levi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@levieber)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=levieber&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5" alt="Languages most used since Nov 22 2022">
+
