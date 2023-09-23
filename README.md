@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou Levi Eber! </h1>
 
-## Características
+## Sobre mim
 
 - Nasci em 2 de agosto de 2006 (espero presentes, hein?!);
 - Estudando na Onebitcode e Alura;
